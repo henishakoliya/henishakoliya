@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henish Akoliya</h1>
-<h3 align="center">🚀 Shopify Frontend Developer | eCommerce Specialist | AI Automation Explorer</h3>
+<h3 align="center">🚀 Frontend Developer | eCommerce Specialist | AI Automation Explorer</h3>
 
 ---
 
 ## 💎 About Me
 
-- 🛒 4+ Years building high-converting Shopify stores  
+- 🛒 building high-converting Shopify stores  
 - ⚡ Specialized in Shopify Online Store 2.0, Liquid & Performance Optimization  
 - 📈 Focused on CRO, UX, and revenue-driven development  
 - 🤖 Exploring AI-powered eCommerce automation  
@@ -24,25 +24,57 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-**Frontend**
-- HTML5
-- CSS3 / Tailwind
-- JavaScript (ES6+)
-
-**Shopify**
+### 🛒 Shopify Development
 - Liquid
-- Online Store 2.0
+- Shopify Online Store 2.0
 - Custom Sections & Blocks
 - Metafields & Dynamic Content
+- Theme Customization & Optimization
 
-**Tools**
+### 🌐 WordPress Development
+- Custom Landing Pages
+- Section-based Layouts
+- Elementor (Pro)
+- WPBakery
+- Divi Builder
+
+### 🎨 Frontend Development
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- Bootstrap
+- Responsive & Mobile-First Design
+
+### ⚡ Performance & Optimization
+- PageSpeed Optimization
+- Core Web Vitals Improvement
+- Lazy Loading & Code Splitting
+- Asset Optimization
+
+### 🧠 Conversion & Marketing
+- CRO (Conversion Rate Optimization)
+- SEO Fundamentals
+- UX/UI Enhancement
+- A/B Testing Basics
+
+### 🧰 Tools & Workflow
 - Git & GitHub
-- Shopify CLI
+- VS Code
 - Figma
-- Google Analytics
-- Meta Ads Manager
+- Adobe XD
+
+### 🚀 Other Platforms
+- Webflow
+- Wix
+- Squarespace
+
+### 🤖 AI & Automation
+- AI-powered workflow automation
+- AI tools integration for eCommerce
+- Prompt engineering for business use
 
 ---
 
@@ -51,18 +83,6 @@
 ### 🛍 High-Converting Jewelry Store
 Custom Shopify 2.0 build with performance-focused architecture  
 🔗 https://sln-jewelery.myshopify.com  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
@@ -76,9 +96,8 @@ Custom Shopify 2.0 build with performance-focused architecture
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 🌐 Portfolio: (Add your portfolio link)
-- 📧 Email: (Your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/henish-akoliya-92b0651a8
+- 📧 Email: henishakoliya01@gmail.com
 
 ---
 
