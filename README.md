@@ -106,6 +106,56 @@ I don’t just build stores.
 I build revenue machines.
 
 
+## ⚙️ Technical Skills
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Shopify
+- Liquid  
+- Online Store 2.0  
+- Sections & Metafields  
+
+### 🌐 WordPress
+- Elementor (Pro)  
+- WPBakery  
+- Divi Builder  
+
+</td>
+<td width="50%">
+
+### 💻 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Tailwind  
+- Bootstrap  
+
+### ⚡ Performance
+- PageSpeed Optimization  
+- Core Web Vitals  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tools
+`GitHub` • `Figma` • `Adobe XD` • `VS Code`
+
+---
+
+### 🚀 Platforms
+`Webflow` • `Wix` • `Squarespace`
+
+---
+
+### 🤖 Other
+CRO • SEO Basics • Responsive Design • AI Integration
+
+
 
 <!--
 **henishakoliya/henishakoliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
