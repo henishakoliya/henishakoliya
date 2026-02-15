@@ -24,57 +24,108 @@
 
 ---
 
-## 🛠 Technical Skills
+
+-->
+## ⚙️ Technical Skills
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
 ### 🛒 Shopify Development
-- Liquid
-- Shopify Online Store 2.0
-- Custom Sections & Blocks
-- Metafields & Dynamic Content
-- Theme Customization & Optimization
+- Liquid  
+- Shopify Online Store 2.0  
+- Custom Sections & Blocks  
+- Metafields & Dynamic Content  
+- Theme Customization & Optimization  
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🌐 WordPress Development
-- Custom Landing Pages
-- Section-based Layouts
-- Elementor (Pro)
-- WPBakery
-- Divi Builder
+- Custom Landing Pages  
+- Section-based Layouts  
+- Elementor (Pro)  
+- WPBakery  
+- Divi Builder  
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🎨 Frontend Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Tailwind CSS
-- Bootstrap
-- Responsive & Mobile-First Design
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Tailwind CSS  
+- Bootstrap  
+- Responsive & Mobile-First Design  
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
 ### ⚡ Performance & Optimization
-- PageSpeed Optimization
-- Core Web Vitals Improvement
-- Lazy Loading & Code Splitting
-- Asset Optimization
+- PageSpeed Optimization  
+- Core Web Vitals Improvement  
+- Lazy Loading & Code Splitting  
+- Asset Optimization  
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🧠 Conversion & Marketing
-- CRO (Conversion Rate Optimization)
-- SEO Fundamentals
-- UX/UI Enhancement
-- A/B Testing Basics
+- CRO (Conversion Rate Optimization)  
+- SEO Fundamentals  
+- UX/UI Enhancement  
+- A/B Testing Basics  
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🧰 Tools & Workflow
-- Git & GitHub
-- VS Code
-- Figma
-- Adobe XD
+- Git & GitHub  
+- VS Code  
+- Figma  
+- Adobe XD  
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🚀 Other Platforms
-- Webflow
-- Wix
-- Squarespace
+- Webflow  
+- Wix  
+- Squarespace  
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 AI & Automation
-- AI-powered workflow automation
-- AI tools integration for eCommerce
-- Prompt engineering for business use
+- AI-powered workflow automation  
+- AI tools integration for eCommerce  
+- Prompt engineering for business use  
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -120,4 +171,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
